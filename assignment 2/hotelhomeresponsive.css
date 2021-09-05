@@ -1,0 +1,184 @@
+
+/* background image */
+
+#topcover{
+    background-image: url('hotelcover.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* user icon */
+.user-icon{
+    font-size: 35px;
+    float: right;
+    margin-right: 2%;
+    margin-top: 2%;
+    color: black;
+    clear: both !important;
+}
+
+/* onload element */
+
+#offers{
+    width: 50%;
+    height: 50vh;
+    align-items: center ;
+    position: fixed;
+    top: 20vh;
+    left: 25%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.966);
+    box-shadow: 0 0 10px rgba(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#offers span{
+    color: rgb(121, 22, 22);
+}
+
+#offers img {
+    margin:auto;
+
+
+}
+
+
+#closeoffer{
+    width: 40px;
+    height: 40px;
+    background-color: brown;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+/* edureka logo */
+
+.logo-text{
+
+    position: relative;
+    top: 11px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+logo-container{
+    clear: both !important;
+    margin-top: 40px;
+
+}
+
+.couponapply{
+    display: inline-block;
+    padding: 5px;
+    width: 30%;
+    float: right;
+    background-color: rgba(255, 255, 255, 0.76);
+    box-shadow: 0 0 10px rgba(0, 0, 0);
+    
+}
+
+
+/* search and location box */
+
+input[name='hotel']{
+    height: 50px; 
+    background-color: whitesmoke;
+    color: gainsboro;
+    text-align: center;
+    font-family: fantasy;
+    margin: 0px;
+    font-size: 30px;
+    
+
+}
+
+input[name='location']{
+    height: 50px; 
+    background-color: whitesmoke;
+    color: gainsboro;
+    text-align: center;
+    font-family: fantasy;
+    margin: 0px;
+    font-size: 30px;
+
+}
+
+.dropdown-container{
+    padding-bottom: 60px;
+}
+
+/* find the best restaurants and food items */
+
+#caption{
+    margin-top: 10px;
+	color: gainsboro;
+	font-family: fantasy;
+	font-size: 30px;
+    background-color: black;
+   
+	
+
+}
+
+#caption>a{
+
+    text-decoration: none !important;
+    color:white;
+
+}
+
+/* quick searches and find food items */
+
+.quick{
+	font-family: serif ;
+	font-size: 35px;
+	font-weight: bold;
+	margin: 1%;
+
+
+}
+
+
+.food{
+	font-family: fantasy;	
+	font-size: 20px;
+	color: grey;
+	margin: 1%;
+	border: 2px grey;
+	border-style: solid;
+
+    position: absolute;
+    right: 0;
+    top: 0;
+
+}
+
+/* hotels list display area */
+.hotel-info-container{
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 2%;
+    display: inline-block;
+    margin: 3%;
+}
+
+.hoteldetails{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 50%;
+    padding-left: 1%;
+
+}
+
+.hotelimage{
+
+    width: 40%;
+    float: left;
+    
+}
+

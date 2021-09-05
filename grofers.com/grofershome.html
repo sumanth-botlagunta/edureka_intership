@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+    <!-- google fonts -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Style+Script&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Style+Script&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+    <!-- otherlinks -->
+
+    <link rel="stylesheet" href="grofershome.css" type="text/css" >
+    <link rel="icon" type="image/png" href="grofers.png" >
+
+    <title>grofers</title>
+  </head>
+  <body>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-eMNCOe7tC1doHpGoWe/6oMVemdAVTMs2xqW4mwXrXsW0L84Iytr2wi5v2QjrP/xp" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+    -->
+
+    <!-- navigation bar -->
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand grofers-nav" href="#">grofers</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active Merriweather" aria-current="page" href="#">Home</a>
+              </li>
+              
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle Merriweather" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  --select location--
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="#">delhi</a></li>
+                  <li><a class="dropdown-item" href="#">banglore</a></li>
+                  <li><a class="dropdown-item" href="#">maharastra</a></li>
+                  <li><a class="dropdown-item" href="#">uttarpradesh</a></li>
+                  
+                </ul>
+              </li>
+              
+            </ul>
+            <form class="d-flex">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 navright">
+
+                <li class="nav-item"  >
+                    <a class="nav-link active Merriweather" aria-current="page" href="#">sign in/sign up</a>
+                  </li>
+
+
+                <li class="nav-item cart1" >
+                  <a class="nav-link active Merriweather" aria-current="page" href="#">CART</a>
+                </li>
+                
+                
+                
+              </ul>
+          </div>
+        </div>
+      </nav>
+
+      <!-- carousel -->
+
+      <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="discount1.png" class="d-block w-100" alt="get_discount">
+          </div>
+          <div class="carousel-item">
+            <img src="discount2.jpg" class="d-block w-100" alt="get_discount">
+          </div>
+          <div class="carousel-item">
+            <img src="discount3.jpg" class="d-block w-100" alt="get_discount">
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+
+      <!-- cards of categories -->
+
+      <div id="caption1">Search by categories</div>
+
+      <div class="content">
+
+      <div class="card " style="width: 18rem;">
+        <img src="groceries1.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">Vegetables</h5>
+          <p class="card-text">get green vegetables with grofers and stay healthy</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+      <div class="card " style="width: 18rem;">
+        <img src="household.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">Household Items</h5>
+          <p class="card-text">get house organized get households at grofers</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+      <div class="card " style="width: 18rem;">
+        <img src="babycare.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">Babycare</h5>
+          <p class="card-text">get them at grofers for best price and quality</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+      <div class="card " style="width: 18rem;">
+        <img src="beverages.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">Beverages</h5>
+          <p class="card-text">get them at grofers for best price and quality</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+      <div class="card " style="width: 18rem;">
+        <img src="books.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">Books and Stationary</h5>
+          <p class="card-text">get them at grofers for best price and quality</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+      <div class="card " style="width: 18rem;">
+        <img src="dairy.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">Breakfast and Dairy</h5>
+          <p class="card-text">get them at grofers for best price and quality</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+      <div class="card " style="width: 18rem;">
+        <img src="homeapplia.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">Home Appliances</h5>
+          <p class="card-text">get them at grofers for best price and quality</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+      <div class="card " style="width: 18rem;">
+        <img src="household.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">Household items</h5>
+          <p class="card-text">get them at grofers for best price and quality</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+      <div class="card " style="width: 18rem;">
+        <img src="kitchen.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">
+            Kitchen Items
+          </h5>
+          <p class="card-text">get them at grofers for best price and quality</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+      <div class="card " style="width: 18rem;">
+        <img src="meat.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">Meat Fish and Other</h5>
+          <p class="card-text">get them at grofers for best price and quality</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+      <div class="card " style="width: 18rem;">
+        <img src="noodles.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">Noodles and Instant Food</h5>
+          <p class="card-text">get them at grofers for best price and quality</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+      <div class="card " style="width: 18rem;">
+        <img src="personalcare.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">Personalcare Items</h5>
+          <p class="card-text">get them at grofers for best price and quality</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+      <div class="card " style="width: 18rem;">
+        <img src="snacks.jpg" class="card-img-top" alt="vegetables">
+        <div class="card-body">
+          <h5 class="card-title">Biscuits Snacks and Chocolates</h5>
+          <p class="card-text">get them at grofers for best price and quality</p>
+          <a href="#" class="btn btn-primary">get it now</a>
+        </div>
+      </div>
+
+    </div>
+
+
+
+      
+
+
+      
+
+  </body>
+</html>

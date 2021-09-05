@@ -1,0 +1,59 @@
+.navright{
+    margin-left:30%;
+}
+
+.grofers-nav{
+
+    font-family: 'Style Script', cursive;
+    font-size: 30px;
+
+
+}
+
+.Merriweather{
+    font-family: 'Merriweather', serif;
+}
+
+
+/* .navbar{
+    background-color: rgb(78, 75, 75) !important;
+} */
+
+.carousel-item>img{
+    height: 350px;
+}
+
+#caption1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+    font-weight: 900;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.card{
+    margin-left: 1%;
+    margin-top: 1%;
+    float:left;
+}
+
+.card-img-top{
+    height:200px;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+
+.cart1{
+    margin-left: 33px;
+}
+
+.card{
+    background-color: rgb(161, 228, 161) !important;
+}
+
+
+
+
+

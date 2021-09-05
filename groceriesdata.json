@@ -1,0 +1,1284 @@
+﻿{
+    "all_products": [
+        {
+            "item_name": "Farm Eggs - Regular, Medium, Antibiotic Residue-Free",
+            "quantity": "6 pcs",
+            "price": "45",
+            "user rating": "3.7",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Onion",
+            "quantity": "2 kg",
+            "price": "56",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Potato/Batate",
+            "quantity": "1 kg",
+            "price": "23",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Frozen Green Peas",
+            "quantity": "1 kg",
+            "price": "159",
+            "user rating": "4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Homogenised Toned Milk",
+            "quantity": "1 L",
+            "price": "61",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Olive Oil - Extra Virgin",
+            "quantity": "250 ml",
+            "price": "299",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Tomato Hybrid/Tomato Sankarit",
+            "quantity": "1 kg",
+            "price": "34",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Carbon Zinc Battery Red HD AA 1015",
+            "quantity": "10 pcs",
+            "price": "125",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "2-Minute Instant Noodles - Masala",
+            "quantity": "560 g",
+            "price": "75.41",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Power Plus Disinfectant Toilet Cleaner - Liquid, Original",
+            "quantity": "500 ml",
+            "price": "79",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Pure Coconut Oil",
+            "quantity": "600 ml",
+            "price": "217",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Strong Teeth Anticavity Toothpaste With Amino Shakti",
+            "quantity": "200 g",
+            "price": "92.07",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Hand Wash Liquid Refill - Skincare",
+            "quantity": "750 ml",
+            "price": "101",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Tea - Natural Care",
+            "quantity": "1 kg",
+            "price": "600",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Disinfectant Surface & Floor Cleaner Liquid - Citrus, Kills 99.9% Germs",
+            "quantity": "975 ml",
+            "price": "172",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Chicken - Curry Cut Without Skin, Antibiotic Residue-Free",
+            "quantity": "1 kg",
+            "price": "235",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Bathing Bar Soap - Original",
+            "quantity": "125 g",
+            "price": "53.94",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Coconut Water - Packed With Electrolytes & Boosts Hydration",
+            "quantity": "200 ml",
+            "price": "40",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Pure & Gentle Bathing Bar",
+            "quantity": "125 g",
+            "price": "152",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "New Extra Large",
+            "quantity": "56 pcs",
+            "price": "889.11",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Buds",
+            "quantity": "75 Stems/150 Swabs",
+            "price": "83",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Diet Coke Soft Drink",
+            "quantity": "300 ml",
+            "price": "35",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Farm Eggs - Table Tray, Medium, Antibiotic Residue-Free",
+            "quantity": "30 pcs",
+            "price": "225",
+            "user rating": "3.5",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Durum Wheat Pasta - Penne Rigate",
+            "quantity": "500 g",
+            "price": "125",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Butter - Pasteurised",
+            "quantity": "100 g",
+            "price": "45",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Easy Wash Detergent Powder",
+            "quantity": "1.5 kg",
+            "price": "127",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Idly Dosa Batter",
+            "quantity": "2x1 kg",
+            "price": "152",
+            "user rating": "3.9",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Greek Yogurt - Blueberry",
+            "quantity": "90 g",
+            "price": "33",
+            "user rating": "4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Carbon Zinc Battery Red HD AAA 1012",
+            "quantity": "10 pcs",
+            "price": "125",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Marie Gold Biscuits",
+            "quantity": "250 g",
+            "price": "25",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Hazelnut Spread with Cocoa",
+            "quantity": "350 g",
+            "price": "350",
+            "user rating": "4.5",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Good Day Cashew Cookies",
+            "quantity": "60 g",
+            "price": "9.3",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Capsicum Hybrid Green/Sankarit Dhobli Mirchi",
+            "quantity": "250 g",
+            "price": "9",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Gluco Biscuits - Parle-G",
+            "quantity": "800 g",
+            "price": "63",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Onion - Organically Grown",
+            "quantity": "1 kg",
+            "price": "29",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Orange - Imported",
+            "quantity": "4 pcs",
+            "price": "109",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Tea",
+            "quantity": "250 g",
+            "price": "134.85",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Banana - Yelakki/Kele- Yelakki",
+            "quantity": "1 kg",
+            "price": "96.9",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Apple - Red Delicious, Regular",
+            "quantity": "4 pcs",
+            "price": "185",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Creme Biscuit - Vanilla, Original",
+            "quantity": "120 g",
+            "price": "27",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Pear - Green, Imported",
+            "quantity": "4 pcs",
+            "price": "125",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Potato Chips - American Style Cream & Onion Flavour",
+            "quantity": "52 g",
+            "price": "18.6",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Cauliflower (Medium)/Phul Kobi (Madhyam)",
+            "quantity": "1 pc",
+            "price": "29",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Apple - Royal Gala",
+            "quantity": "4 pcs",
+            "price": "159",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Chicken Breast - Boneless, Antibiotic Residue-Free",
+            "quantity": "1 kg",
+            "price": "420",
+            "user rating": "3.7",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Fresho Water Melon Kiran/Fresho Kalingad Kiran",
+            "quantity": "1 pc",
+            "price": "133",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Ladies Finger/Bhendi",
+            "quantity": "1 kg",
+            "price": "40",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Potato Chips - Indias Magic Masala",
+            "quantity": "190 g",
+            "price": "76.5",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Oats",
+            "quantity": "1 Kg",
+            "price": "171",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Ultra-Alkaline Battery AAA",
+            "quantity": "2 x 6 pcs",
+            "price": "470.4",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "MaxFresh Toothpaste Gel - Anticavity, Spicy Fresh",
+            "quantity": "150 g",
+            "price": "92",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Surface Disinfectant Spray Sanitiser - Germ Protection",
+            "quantity": "170 g",
+            "price": "143",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Germ Fighter Liquid Handwash Refill - Aqua",
+            "quantity": "750 ml",
+            "price": "88",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Fresh Tomato Ketchup",
+            "quantity": "950 g",
+            "price": "85",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Nacho Chips - Cheese",
+            "quantity": "60 g",
+            "price": "30",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Harpic Toilet Cleaner Liquid - Original 1 L + Lizol Floor Cleaner, Citrus - 2L",
+            "quantity": "Combo",
+            "price": "501",
+            "category": "all_products"
+        },
+        {
+            "item_name": "MaxFresh Toothpaste - Anti-Cavity, Peppermint Ice",
+            "quantity": "150 g",
+            "price": "92.07",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Ultra Clean Sanitary Pads For Women, XL+",
+            "quantity": "50 pcs",
+            "price": "353",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Bathroom Cleaning Liquid - Lemon",
+            "quantity": "500 ml",
+            "price": "88.35",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Bread - Whole Wheat, Chemical Free 400G + Eggs - Regular 6pcs",
+            "quantity": "Combo",
+            "price": "85",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Bread - Brown, Chemical Free 400G + Eggs - Regular 6pcs",
+            "quantity": "Combo",
+            "price": "90",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Sandwich Bread - White, Chemical Free 400G + Eggs - Regular 6pcs",
+            "quantity": "Combo",
+            "price": "85",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Extra Virgin Olive Oil 1L Pet Bottle + Durum Wheat Pasta Penne Rigate 500g Pouch",
+            "quantity": "Combo",
+            "price": "824",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Nice Time Coconut Biscuits",
+            "quantity": "150 g",
+            "price": "23",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Cream Beauty Bathing Bar",
+            "quantity": "800 g",
+            "price": "416",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Dry Dog Food - Chicken & Vegetables, For Adult Dogs",
+            "quantity": "15 kg",
+            "price": "2538",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Treat Jim Jam Cream Biscuits",
+            "quantity": "150 g",
+            "price": "26.48",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Hommade Coconut Milk - Goodness Of 2 Creamy Coconuts",
+            "quantity": "200 ml",
+            "price": "71",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Sugar - Refined",
+            "quantity": "5 kg",
+            "price": "230",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Matic Top Load Detergent Powder",
+            "quantity": "2 kg",
+            "price": "289",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Idly Dosa Batter, 1 Kg + Whole Wheat Parota, 350 g",
+            "quantity": "Combo",
+            "price": "157.44",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Mushrooms - Button/Alambe-Batan",
+            "quantity": "1 pack",
+            "price": "44",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Carrot English/Gajar English (Lal)",
+            "quantity": "500 g",
+            "price": "28",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Nacho Chips - Jalapeno",
+            "quantity": "60 g",
+            "price": "30",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Detergent Bar",
+            "quantity": "250 g",
+            "price": "54",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Lemon - Organically Grown",
+            "quantity": "250 g",
+            "price": "16",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Detergent Washing Powder - Jasmine & Rose, Extra Power, Tide+",
+            "quantity": "8 kg",
+            "price": "623.5",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Vita Marie Gold Biscuits",
+            "quantity": "300 g",
+            "price": "35",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Liquid Disinfectant Cleaner for Home - Lime Fresh",
+            "quantity": "500 ml",
+            "price": "166",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Bottle Gourd",
+            "quantity": "1 pc",
+            "price": "40",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Nacho Chips - Peri-Peri",
+            "quantity": "60 g",
+            "price": "30",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Sugar/Sakhar",
+            "quantity": "1 kg",
+            "price": "42",
+            "user rating": "4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Sparkling Water - Club Soda",
+            "quantity": "750 ml",
+            "price": "15",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Tomato - Hybrid, Organically Grown",
+            "quantity": "500 g",
+            "price": "17",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Veg Hakka Noodles",
+            "quantity": "600 g",
+            "price": "92.02",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Liquid Detergent - Matic, Top Load",
+            "quantity": "1 L",
+            "price": "169",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Dishwash Liquid Gel - Lemon",
+            "quantity": "750 ml",
+            "price": "134.4",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Ginger - Organically Grown",
+            "quantity": "250 g",
+            "price": "23",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Cabbage",
+            "quantity": "1 pc",
+            "price": "25",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Cheese Slices",
+            "quantity": "200 g",
+            "price": "116.25",
+            "user rating": "4.5",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Hide & Seek Chocolate",
+            "quantity": "100 g",
+            "price": "27.9",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Banana - Robusta/Kele- Robusta",
+            "quantity": "500 g",
+            "price": "19.5",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Ultra Soft Air Fresh Sanitary Pads - XL",
+            "quantity": "50 pcs",
+            "price": "338.3",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Disinfectant Toilet Cleaner Liquid - 1 L + Bathroom Cleaner Liquid - 500 ml",
+            "quantity": "Combo",
+            "price": "258.35",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Harpic Bathroom Cleaner - Lemon 1 L + Harpic Toilet Cleaner, Original - 1 L",
+            "quantity": "Combo",
+            "price": "333.66",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Original 1 ltr + Bathroom Cleaner Lemon 500 ml",
+            "quantity": "Combo",
+            "price": "258.35",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Super Saver Pack Toilet Cleaner Original, 500ml + Bathroom Cleaner Lemon, 500ml",
+            "quantity": "Combo",
+            "price": "157.35",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Greek Yogurt - Natural",
+            "quantity": "8x90 g",
+            "price": "270",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Leaf Tea",
+            "quantity": "500 g",
+            "price": "133",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "After Wash Morning Fresh Fabric Conditioner",
+            "quantity": "860 ml",
+            "price": "190",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Chips - Yellow Banana",
+            "quantity": "150 g",
+            "price": "53.58",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Tea",
+            "quantity": "500 g",
+            "price": "244",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Cream Beauty Bathing Bar",
+            "quantity": "100 g",
+            "price": "49.29",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Chocolate Health Drink - Bournvita",
+            "quantity": "750 g",
+            "price": "250.85",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Beetroot - Grade A/Beet",
+            "quantity": "500 g",
+            "price": "20",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Dry Cat Food - Junior Ocean Fish, For Kittens, 2-12 Months",
+            "quantity": "1.1 kg",
+            "price": "380",
+            "user rating": "4.6",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Durum Wheat Pasta - Fusilli",
+            "quantity": "500 g",
+            "price": "125",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Anti Mosquito Racquet - Rechargeable Insect Killer Bat With LED Light",
+            "quantity": "1 pc",
+            "price": "424",
+            "user rating": "3.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Frozen - Green Peas",
+            "quantity": "1 kg",
+            "price": "192",
+            "user rating": "3.8",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Germ Fighter Liquid Handwash Refill - Neem & Aloe Vera",
+            "quantity": "750 ml",
+            "price": "72",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Dry Cat Food - Ocean Fish Flavour, For Adult Cats, +1 Year",
+            "quantity": "7 kg",
+            "price": "1530",
+            "user rating": "4.5",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Lizol Floor Cleaner, Citrus - 500ml + Harpic Bathroom Cleaning Liquid - Lemon 500ml",
+            "quantity": "Combo",
+            "price": "179.49",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Greek Yogurt - Natural + Alphonso Mango + Strawberry + Blueberry (90 g each)",
+            "quantity": "Combo",
+            "price": "166",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Greek Yogurt - Strawberry",
+            "quantity": "8x90 g",
+            "price": "262",
+            "user rating": "4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Salt - Unrefined, 100% Natural",
+            "quantity": "1 kg",
+            "price": "99",
+            "user rating": "4.6",
+            "category": "all_products"
+        },
+        {
+            "item_name": "2-Minute Noodles Masala",
+            "quantity": "840 g",
+            "price": "133",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Greek Yogurt - Alphonso Mango",
+            "quantity": "8x90 g",
+            "price": "262",
+            "user rating": "3.8",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Durum Wheat Pasta - Spaghetti",
+            "quantity": "500 g",
+            "price": "95",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Instant Coffee",
+            "quantity": "200 g",
+            "price": "272",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Cucumber - White/Kakdi- Safed",
+            "quantity": "1 kg",
+            "price": "39",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Nacho Crisps - Cheese & Herbs",
+            "quantity": "60 g",
+            "price": "29.75",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Disinfectant Surface & Floor Cleaner Liquid - Floral, Kills 99.9% Germs",
+            "quantity": "500 ml",
+            "price": "91.14",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Pomegranate - Kesar/Dalimb- Bhagwa",
+            "quantity": "4 pcs",
+            "price": "117",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Iodized",
+            "quantity": "1 kg",
+            "price": "18",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Tender Coconut - Medium",
+            "quantity": "1 pc",
+            "price": "66",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Good Day Cashew Cookies",
+            "quantity": "6x60 g",
+            "price": "55.8",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Tea",
+            "quantity": "1 Kg",
+            "price": "710",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Coconut - Large/Naral- Mothe",
+            "quantity": "1 pc",
+            "price": "35",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Rich Moisture Hair to Toe Baby Wash",
+            "quantity": "400 ml",
+            "price": "252",
+            "user rating": "3.9",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Eggs - Free Range",
+            "quantity": "12 pcs",
+            "price": "200",
+            "user rating": "3.9",
+            "category": "all_products"
+        },
+        {
+            "item_name": "NutriChoice - Digestive High Fibre Biscuits",
+            "quantity": "100 g",
+            "price": "17",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Nuggets - Chicken",
+            "quantity": "750 g",
+            "price": "365",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Hot & Sweet - Tomato Chilli Sauce",
+            "quantity": "1 Kg",
+            "price": "144",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Muesli Breakfast Cereal - With Multigrain & 21% Fruit, Nut & Seeds",
+            "quantity": "750 g",
+            "price": "395",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Toor Dal/Arhar Dal - Desi",
+            "quantity": "500 g",
+            "price": "65",
+            "user rating": "4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Disinfectant Surface & Floor Cleaner Liquid - [Citrus 975 ml + Floral 975 ml]",
+            "quantity": "Combo",
+            "price": "353",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Floor Cleaner - Citrus 500 ml + Floral - 500 ml, Kills 99.9% Germs",
+            "quantity": "Combo",
+            "price": "174.28",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Disinfectant Surface & Floor Cleaner Liquid - [Citrus 2 L + Floral 2 L]",
+            "quantity": "Combo",
+            "price": "699",
+            "category": "all_products"
+        },
+        {
+            "item_name": "RefinedÂ Sugar (Sulphurless)/Sakhar",
+            "quantity": "5 kg",
+            "price": "212",
+            "user rating": "4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Namkeen - Bhujia Sev",
+            "quantity": "1 kg",
+            "price": "180",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Creme Biscuit - Chocolate",
+            "quantity": "120 g",
+            "price": "27.9",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Black Soft Drink - Max Taste, Zero Cal(Diet)",
+            "quantity": "250 ml",
+            "price": "24.6",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Wet Cat Food - Chicken In Gravy, For Kittens, 2-12 Months",
+            "quantity": "85 g",
+            "price": "378",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Little Hearts Classic - Sugar Sprinkled, Heart Shaped Biscuits",
+            "quantity": "34.5 g",
+            "price": "9.3",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Toothpaste - Strong Teeth 200G + Mouthwash - Plax Pepper Mint, Imported 250ml",
+            "quantity": "Combo",
+            "price": "204.89",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Mutton - Curry Cut, From Whole Carcass 8-10 Kgs. Antibiotic Residue-Free, Growth Hormone-Free",
+            "quantity": "1 kg",
+            "price": "799",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Extra Virgin Olive Oil 1L + Olive Oil - Extra Light 2L",
+            "quantity": "Combo",
+            "price": "1848",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Dentastix Dog Treat Oral Care For Adult Medium Breed - 10-25 kg, 28 Sticks",
+            "quantity": "180 g",
+            "price": "518.5",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Matic Front Load Detergent Powder",
+            "quantity": "2 kg",
+            "price": "370",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Greek Yogurt - Strawberry, No Added Sugar",
+            "quantity": "120 g",
+            "price": "59.5",
+            "user rating": "4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Noodles - Masala 280 gm + Ketchup Tomato 1 kg",
+            "quantity": "Combo",
+            "price": "159.95",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Fresho Farm Eggs  Medium 30 pcs + Kara Coconut Milk UHT Classic, Imported 200 ml",
+            "quantity": "Combo",
+            "price": "295",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Fresh Garlic/Taje Lasun",
+            "quantity": "100 g",
+            "price": "24",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Cockroach Killer Spray",
+            "quantity": "700 ml",
+            "price": "299.2",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Curd - Artisanal",
+            "quantity": "400 g",
+            "price": "76",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Cold Extracted Juice - Valencia Orange",
+            "quantity": "1 L",
+            "price": "300",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Kiwi - Green",
+            "quantity": "3 pcs",
+            "price": "99",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Dishwash Liquid Gel - Lemon",
+            "quantity": "1.8 L",
+            "price": "277",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "100% Pure Honey",
+            "quantity": "400 g",
+            "price": "267",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Gold Pro Healthy Lifestyle Edible Oil",
+            "quantity": "1 L",
+            "price": "178.76",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Classic 100% Pure Instant Coffee",
+            "quantity": "50 g",
+            "price": "125",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Nutri-licious Masala Veg Atta Noodles - Pouch",
+            "quantity": "290 g",
+            "price": "76",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Atta/Ghau Peeth - Whole Wheat",
+            "quantity": "5 kg",
+            "price": "210",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Mozzarella Cheese - Grated",
+            "quantity": "100 g",
+            "price": "171.9",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Antiseptic Liquid 250 ml + Disinfectant Spray- Original 225 ml",
+            "quantity": "Combo",
+            "price": "259.16",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Disinfectant Surface & Floor Cleaner Liquid - [Citrus 975 ml + Lavender 975 ml]|",
+            "quantity": "Combo",
+            "price": "353",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Disinfectant Surface & Floor Cleaner Liquid - [Citrus 2 L + Lavender 2 L]",
+            "quantity": "Combo",
+            "price": "699",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Durum Wheat Pasta - Fusilli 500 g + Durum Wheat Pasta - Penne Rigate 500 g",
+            "quantity": "Combo",
+            "price": "250",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Ultra Nights Sanitary Pads - XXXL Wings",
+            "quantity": "20 pcs",
+            "price": "506",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Liquid Detergent - Matic, Front Load",
+            "quantity": "1 L",
+            "price": "202.5",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Papad - Urad",
+            "quantity": "200 g",
+            "price": "53",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Gel Bathing Bar Celebration Pack - With 5 Unique Gel Bars",
+            "quantity": "125 g",
+            "price": "220",
+            "user rating": "4.4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Surf Excel Detergent Powder 4kg + Comfort Morning Fresh Fabric Conditioner 860ml",
+            "quantity": "Combo",
+            "price": "560",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Double Concentrate Surface Cleaner 900 ml + Harpic Power Plus Toilet Cleaner 1 L",
+            "quantity": "Combo",
+            "price": "447",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Fresh Toned Milk",
+            "quantity": "200 ml",
+            "price": "13.3",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "New Dry Large - 64 Diaper Pants",
+            "quantity": "64 pcs",
+            "price": "889.11",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Green Peas",
+            "quantity": "1 kg",
+            "price": "160.8",
+            "user rating": "3.8",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Chocolate Home Treats Pack",
+            "quantity": "126 g",
+            "price": "96.04",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Chyawanprash - 2X Immunity",
+            "quantity": "950 g",
+            "price": "321.08",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Total Advanced Health Anticavity Toothpaste",
+            "quantity": "3x120 g",
+            "price": "260.1",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Mixed Capsicum",
+            "quantity": "2 pcs",
+            "price": "170",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Chilli - Green, Organically Grown",
+            "quantity": "100 g",
+            "price": "8",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Poha/Avalakki/Aval/Chivda - Thick",
+            "quantity": "1 kg",
+            "price": "54",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Detergent Washing Powder - Matic Top Load",
+            "quantity": "2 kg",
+            "price": "300.83",
+            "user rating": "4.3",
+            "category": "all_products"
+        },
+        {
+            "item_name": "100% Natural - Californian Almonds",
+            "quantity": "200 g",
+            "price": "182",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Kitchen Towel 2 Ply - 100% Virgin Pulp/Paper",
+            "quantity": "60 pulls",
+            "price": "129",
+            "user rating": "4",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Secret Schezwan Chutney",
+            "quantity": "250 g",
+            "price": "67",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Chocolate",
+            "quantity": "50 g",
+            "price": "34",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Masti Buttermilk - Spice",
+            "quantity": "1 L",
+            "price": "47",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Namkeen - Bhujia Sev",
+            "quantity": "150 g",
+            "price": "43",
+            "user rating": "4.2",
+            "category": "all_products"
+        },
+        {
+            "item_name": "French - Fries",
+            "quantity": "420 g",
+            "price": "90",
+            "user rating": "4.1",
+            "category": "all_products"
+        },
+        {
+            "item_name": "Purifying Neem Face Wash",
+            "quantity": "300 ml",
+            "price": "202.5",
+            "user rating": "4.3",
+            "category": "all_products"
+        }
+    ]
+}

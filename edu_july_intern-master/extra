@@ -1,0 +1,192 @@
+https://code.visualstudio.com/download
+https://nodejs.org/en/
+https://git-scm.com/downloads
+https://imgbb.com/
+
+
+Auto Close Tag
+vscode-icons
+gitlens
+git history
+tabnine
+
+// design(static website)
+HTML  > Structure
+CSS   > Design 
+Bootstrap > Responsive
+
+////// dynamic            
+> Javascript > Logical
+
+>>>backend (Api)
+Node JS
+
+>>>Database
+MongoDb (nosql database)
+Redis   (caching)
+Postgres(optional)(overview)
+
+>>> Frontend
+React 
+
+Payment gateway (paytm)
+Email Server (email)
+Oauth (Login With Google/github)
+Login/Logout (with Jwt)
+
+Deployment
+> Ci/Cd with AWS
+> Heroku
+
+Overview (optional)
+mobile app development
+> React Native
+
+>>>>> 
+Customer
+Vendor
+> Order
+> Accept reject 
+> Add more item
+
+
+inside head Tag 
+> link of css
+> link of javascript
+> title
+> favicon
+> meta tag
+
+inside body tag
+> all the other tags
+> things we want to display on the page
+
+closing
+self closing
+
+> what we write between tag
+(<h2>Heading 2</h2>)
+so here heading we call it as data
+
+> When we write inside tag
+(<img src="" alt=""/>)
+we call them as attribute/property
+
+
+////////
+Inline Element > those start in same line
+Block LevelElement > those start in new line
+
+_target > open website in new tab
+
+
+single template page
+//////
+without html css is nothing
+> css is all about design
+> 
+
+inline > style tag > stylesheet
+
+<h1></h1>
+{   
+    color:red,
+    fontsize:1,
+    text-align:center,
+    marign:10
+}
+
+
+inline 
+{
+   color:red
+   fontsize:1
+}
+
+styleTag{
+    fontsize:2,
+    text-align:center
+    
+}
+
+stylesheet{
+   color:orange
+   fontsize:2
+   text-align:right
+   marign:10
+}
+
+
+Tag Name > Target using tagName (h1,p)
+ # Id > When you want to target unique Element
+ . Class> When you want to target group of Element
+
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/secondproject.git
+git push -u origin master
+
+download gitbash
+https://git-scm.com/downloads
+
+
+git add .
+git commit -m "first commit"
+git push
+
+
+Bootstrap
+>> Pre Written CSS Done by Twitter
+
+lg <1200
+md <992
+sm <768
+xs >768
+
+primary >blue
+success >green
+warning >orange
+danger  >red
+info    >skyblue
+
+bootstrap4
+col- <576
+col-sm >576
+col-md >768
+col-lg > 992
+col-xl >1200
+
+https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
+https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+https://stackoverflow.com/users/3687251/aakash-handa
+
+
+String opertions
+math operations
+String literals(Contact)
+ifelse
+ternory
+array
+localstorage
+sessionstorage
+cookie
+loop
+map
+object
+JSON
+Api Calling
+Fetch
+Promise
+async await
+geolocation
+light/dark
+
+
+Filter
+let const
+
+http://api.openweathermap.org/data/2.5/forecast/daily?q=Delhi&mode=json&units=metric&cnt=5&appid=fbf712a5a83d7305c3cda4ca8fe7ef29
